@@ -195,6 +195,7 @@ body {
 }
 
 .address {
+	color: var(--primary-bg-color);
 	font-size: 14px;
 	line-height: 1.7;
 }
