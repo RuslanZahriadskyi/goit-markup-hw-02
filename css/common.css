@@ -188,6 +188,7 @@ body {
 	font-weight: 700;
 	font-size: 26px;
 	line-height: 1.2;
+	font-style: normal;
 }
 
 .logo-span {
@@ -198,6 +199,7 @@ body {
 	color: var(--primary-bg-color);
 	font-size: 14px;
 	line-height: 1.7;
+	font-style: normal;
 }
 
 .footer-link {
@@ -205,6 +207,7 @@ body {
 
 	font-size: 14px;
 	line-height: 1.7;
+	font-style: normal;
 }
 
 .footer-link:hover,
